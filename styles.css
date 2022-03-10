@@ -44,7 +44,8 @@ section {
     overflow: hidden;
     width: 100%;
     padding-top: 56.25%;
-    margin-top: 20px;
+    margin-top: 50px;
+    border: black solid 7px;
 }
 
 iframe {
